@@ -1,0 +1,6 @@
+@import "_overall.css";
+@import "_fonts.css";
+
+/* components imports */
+@import "./components/_header.css";
+@import "./components/_first.css";
