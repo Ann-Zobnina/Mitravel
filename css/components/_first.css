@@ -1,4 +1,8 @@
 .first {
     height: 100vh;
-    min-height: 600px;
+		min-height: 600px;
+		background-image: url(../../img/_first-bg.jpg);
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
 }
